@@ -1,4 +1,4 @@
-package brickBreaker;
+package Dx_Ball;
 
 import java.awt.Graphics2D;
 import java.awt.Color;
