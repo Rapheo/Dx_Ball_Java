@@ -1,4 +1,4 @@
-package brickBreaker;
+package Dx_Ball
 
 import javax.swing.JPanel;
 
